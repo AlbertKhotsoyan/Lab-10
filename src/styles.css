@@ -1,0 +1,16 @@
+.App {
+  font-family: Arial;
+  text-align: justify;
+}
+
+.header a {
+  margin-right: 30px;
+}
+
+.form {
+  margin-top: 10px;
+}
+
+.maintext {
+  margin-top: 10px;
+}
